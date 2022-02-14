@@ -34,6 +34,7 @@ build/
 
 ### Custom ###
 .mvn
-HELP.md
 mvnw.cmd
 mvnw
+
+application.properties
