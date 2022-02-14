@@ -37,4 +37,4 @@ build/
 mvnw.cmd
 mvnw
 
-/src/main/resources/application.properties
+application.properties
